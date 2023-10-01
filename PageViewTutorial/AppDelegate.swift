@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PageViewTutorial
 //
-//  Created by 金融研發一部-楊雅婷 on 2023/9/30.
+//  Created by Vicki Yang on 2023/9/30.
 //
 
 import UIKit
